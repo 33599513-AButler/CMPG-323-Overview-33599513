@@ -24,12 +24,12 @@ Credential management:
 In order to manage credentials, I will be using config files where
 available or alternatively hashing methods and the gitignore
 command to prevent committing sensitive information. 
-For web application this may not be directly managed on the client
+For web applications this may not be directly managed on the client
 side and as such I will ensure to use current best practice to 
 secure the provided credentials and prevent either hashing
 funtions or other such information from being uploaded on the
 repository. As the current metrics of what functionality is
-required and how is not currently well understood, the strategy
-of securing such information will be revisited on an individual
-basis.
+required and how is not currently well understood personally, 
+the strategy of securing such information will be revisited
+on an individual project basis.
 
