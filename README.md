@@ -1,4 +1,4 @@
 # CMPG-323-Production-33599513
 University work for CMPG 323
 Branching strategy:
-![plot](.33599513 branching strategy.jpg)
+<img src="33599513 branching strategy.jpg" width="128"/>
