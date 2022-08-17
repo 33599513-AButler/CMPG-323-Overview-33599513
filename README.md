@@ -12,7 +12,9 @@ and its ability to functioning properly before being pushed
 to main and the features and fixes branch for the addition 
 of normative enhancements and fixes to poblems encountered
 in the development branch testing environment.
+
 <img src="33599513 branching strategy.jpg" width="600"/>
+
 The desire to not use a hotfix branch or overly complicate
 and create new branches simply for fixing single issues
 serves to simplify version control.
