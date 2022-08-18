@@ -2,6 +2,26 @@
 
 University work for CMPG 323
 
+Method for handling projects:
+
+Each project will have its owbn repository associated with it.
+The standard layout will consist of a Main branch, a development
+branch, and a features and fixes branch. HTe Main will host the 
+presumably fully functional code, the development branch will
+host the last good known working development and the features
+and fixes branch will host the current iterable project which
+is the working directory for implementing new features and
+solving discovered bugs from the development branch.
+
+The main branch will not be developed on, the development,
+and features and fixes branches will be worked on locally
+while development is ongoing. In this sense the Main is to
+explicitly publish passing and finalised code. The fixes
+and features branch will host the majority of development
+tasks and will be backed up routinely with apparently 
+working code being pushed to the development branch where
+attempt to break it will be made.
+
 Branching strategy:
 
 The Branching strategy used in the projects will consist of
