@@ -53,3 +53,6 @@ required and how is not currently well understood personally,
 the strategy of securing such information will be revisited
 on an individual project basis.
 
+
+Completion of Project 2, project submitted.
+Completed Azure training and read through provided documentation.
