@@ -53,6 +53,14 @@ required and how is not currently well understood personally,
 the strategy of securing such information will be revisited
 on an individual project basis.
 
+Completion of Project 1, project submitted.
+Completed Github training and read through provided documentation.
 
 Completion of Project 2, project submitted.
 Completed Azure training and read through provided documentation.
+
+Project 3 submitted.
+Read through available resources, difficulty attempting to integrate full-fledged abstractions and classes.
+
+Project 4 submitted.
+Completed Ui Path training.
